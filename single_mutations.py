@@ -33,3 +33,5 @@ tax.plot(sol2, linewidth = 2.0, label = "trajectory")
 tax.ticks(axis = 'lbr', multiple = 0.2, linewidth = 1, tick_formats = "%.1f")
 tax.legend()
 tax.show()
+
+# Samyak is learning git
