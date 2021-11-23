@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pylab as plt
 from scipy.integrate import odeint
 import ternary
-e = 0 #epsilon can be varied aroun 0, which is the critical point
+e = -0.1 #epsilon can be varied aroun 0, which is the critical point
 u = 0
 def F(vec, t):
     x, y = vec
